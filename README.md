@@ -53,12 +53,15 @@ Abra o terminal na pasta raiz do projeto clonado. Como o projeto principal está
 
 ```bash
 # 1. Navegue para a pasta do projeto
-cd mc/imc-pro
+cd imc-pro
 
 # 2. Instale as dependências (React, Tailwind, Vite, etc.)
-npm install
-# ou
+
 # npm i
+
+# 3. inicialize o projeto
+#npm run dev
+
 ## 📜 Licença
 
 Este projeto está licenciado sob a licença **Creative Commons BY-NC-ND**.

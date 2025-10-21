@@ -1,4 +1,4 @@
-# 📘 Projeto PW - IMC Pro (Calculadora)
+# 📘 Projeto PW - IMC Pro
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 ![Licença](https://img.shields.io/badge/Licença-CC--BY--NC--ND-blue?style=for-the-badge)
@@ -14,11 +14,10 @@ O objetivo principal é calcular o IMC com base na altura e peso fornecidos pelo
 
 🔹 Principais destaques:
 
-* ✅ **Desenvolvimento Moderno:** Utilização de **React** para componentes reativos e **Vite** para um ambiente de desenvolvimento rápido.
+* ✅ **Desenvolvimento Moderno:** Utilização de **React** e **Vite** para um desenvolvimento ágil e componentizado.
+* ✅ **Design Utility-First:** Estilização completa com **Tailwind CSS**, garantindo responsividade e personalização rápida.
 * ✅ **Lógica de Cálculo:** Implementação precisa da fórmula do IMC e categorização dos resultados.
-* ✅ **Interface Intuitiva:** Design focado na usabilidade, garantindo uma fácil inserção de dados.
-* ✅ **Ótimo para Front-end:** Demonstração de habilidades em manipulação de estado, *hooks* e desenvolvimento componentizado.
-
+* ✅ **Foco em Front-end:** Demonstração de habilidades em manipulação de estado e frameworks modernos.
 ---
 
 ## 📸 Prévia do Projeto
@@ -33,9 +32,10 @@ O objetivo principal é calcular o IMC com base na altura e peso fornecidos pelo
 ## 🛠️ Tecnologias Utilizadas
 
 * **React** → Biblioteca JavaScript para construção da interface de usuário
+* **Tailwind CSS** → Framework CSS de utilitários para estilização rápida e responsiva
 * **Vite** → Ferramenta de build e servidor de desenvolvimento otimizado
 * **JavaScript (ES6+)** → Lógica de manipulação de dados e cálculos
-* **HTML5 / CSS3** → Estrutura e estilização
+* **HTML5** → Estrutura da página
 
 ---
 

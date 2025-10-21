@@ -62,7 +62,10 @@ cd imc-pro
 # 3. inicialize o projeto
 #npm run dev
 
-## 📜 Licença
+##
+```
+
+ 📜 Licença
 
 Este projeto está licenciado sob a licença **Creative Commons BY-NC-ND**.
 Você pode compartilhar e usar para fins acadêmicos, mas não pode modificar ou usar comercialmente.
